@@ -7,7 +7,8 @@ STUDENT_NAMES = [
   "Rihanna"
 ]
 
-puts STUDENT_NAMES [0]
+STUDENT_NAMES [0]
+puts STUDENT_NAMES
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
