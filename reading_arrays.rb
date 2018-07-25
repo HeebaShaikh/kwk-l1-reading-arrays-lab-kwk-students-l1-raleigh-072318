@@ -17,7 +17,7 @@ first_student_by_index
 
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
-  return STUDENT_NAMES[4]
+  return STUDENT_NAMES[3]
 end
 fourth_student_by_index
 
