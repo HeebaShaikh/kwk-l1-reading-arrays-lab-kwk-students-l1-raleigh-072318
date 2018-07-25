@@ -33,6 +33,7 @@ end
 def last_student_by_method
   # Write a solution that returns the first student using the built in .last method
 end
+puts STUDENT_NAMES.last 
 
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
